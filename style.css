@@ -1,0 +1,16 @@
+body{
+    background-color: darkslateblue;
+    text-align: center;
+}
+#tab{
+    background-color: cornflowerblue;
+    width: 450px;
+    margin-left: 35%   ;
+    border-radius: 5px;
+    text-rendering: inherit;
+}
+#abc{
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+}
